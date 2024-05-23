@@ -16,4 +16,4 @@
 ![React certificate](github/Certificado%20React.jpg)
 
 ## React + Sockets
-*Coming soon*
+![React+Sockets certificate](./github/Certificado%20React+Sockets.jpg)

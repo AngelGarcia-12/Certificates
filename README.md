@@ -17,3 +17,6 @@
 
 ## React + Sockets
 ![React+Sockets certificate](./github/Certificado%20React+Sockets.jpg)
+
+# Python Total
+![Python Total certificate](./github/Certificado%20Python%20Total.jpg)

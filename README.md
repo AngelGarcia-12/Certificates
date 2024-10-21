@@ -20,3 +20,9 @@
 
 ## Python Total
 ![Python Total certificate](./github/Certificado%20Python%20Total.jpg)
+
+## Data Science and Machine Learning A-Z
+![Data Science and Machine Learning A-Z](./github/Data-Science-and-ML.jpg)
+
+## CSS and JavaScript for Beginners
+![CSS and JavaScript for Beginners](./github/CSS-JavaScript-for-Beginners.jpg)
